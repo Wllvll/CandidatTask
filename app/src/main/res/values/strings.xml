@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CandidatTask</string>
+    <string name="users_title">Users</string>
+    <string name="photos_title">Photos</string>
+</resources>
